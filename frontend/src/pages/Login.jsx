@@ -33,7 +33,7 @@ export default function Login() {
           <div className="inline-flex items-center justify-center w-14 h-14 rounded-2xl bg-ink-900 mb-4 shadow-float">
             <BookOpen size={26} className="text-amber-400" />
           </div>
-          <h1 className="text-3xl font-display font-bold text-ink-900">TuitionPro</h1>
+          <h1 className="text-3xl font-display font-bold text-ink-900">Shashi Institute of Education</h1>
           <p className="text-ink-500 mt-1 text-sm">Sign in to your tuition dashboard</p>
         </div>
 
@@ -97,7 +97,7 @@ export default function Login() {
         </div>
 
         <p className="text-center text-xs text-ink-400 mt-6">
-          © 2024 TuitionPro · Built for educators
+          © 2026 Shashi Institute of Education · Developed by Mayank Shrivastava
         </p>
       </div>
     </div>
